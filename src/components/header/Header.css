@@ -1,0 +1,17 @@
+.header {
+  height: 1.2rem;
+  line-height: 1.2rem;
+  border-bottom: 1px solid #eee;
+  color: #fff;
+  font-size: .4rem;
+  background-color: #000;
+  position: relative;
+}
+.header .back {
+  position: absolute;
+  left: .4rem;
+}
+.header .title {
+  font-size: 0.8rem;
+  text-align: center;
+}
